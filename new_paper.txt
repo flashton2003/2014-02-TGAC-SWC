@@ -1,10 +1,13 @@
-Authors: Me, my supervisor
+Authors: Me, my supervisor, Jon
 Affiliation: PHE
-Title: The best thing ever
+Title: The 2nd best thing ever
 Year: 2014
 Journal: Scilence
 
 Intro: Everything everyone else has ever done is shit.
 
-
 lots and lots of work
+
+Data: Insert someone elses hard work
+
+Analysis: think of something clever to say
